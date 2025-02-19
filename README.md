@@ -1,7 +1,7 @@
 # PMP-MetaDistill
 this repo covers the implementation of the following paper:
 PMP-MetaDistill: Enhancing Adversarial Robustness of Small Models via Adaptive Multi-Teacher Distillation with PMP-Guided Meta-Learning
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image](figures/multi-teacher-whole.jpg)
 ## Installation
 This repo was tested with Python 3.10, Torch 1.10.0, torchvision 0.11.1 and CUDA 12.4 A100
 

@@ -7,9 +7,10 @@ This repo was tested with Python 3.10, Torch 1.10.0, torchvision 0.11.1 and CUDA
 
 ## Running
 Before distill the student, be sure to get a robust teacher model, you can use the file AT.py to get it.
+and you also have a clean teacher model.
 ```
 python AT.py  &&
-python  pmp_resnet_cifar10.py
+python pmp_resnet_cifar10.py
 ```
 ## Citation
 If you find this repository useful, please consider citing the following paper:

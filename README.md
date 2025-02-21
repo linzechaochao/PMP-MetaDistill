@@ -6,8 +6,12 @@ PMP-MetaDistill: Enhancing Adversarial Robustness of Small Models via Adaptive M
 ![Algorithm](https://github.com/linzechaochao/PMP-MetaDistill/blob/master/figures/Algorithm-of-PMP-MetaDistill.jpg)
 
 ## Installation
-This repo was tested with Python 3.10, Torch 1.10.0, torchvision 0.11.1 and CUDA 12.4 A100
-
+To use this repository, please follow the steps below to install the required dependencies.
+This repo was tested in A100
+## Prerequisites
+- Python (version 3.10.13)
+- pip (version 24.0)
+- CUDA (version 12.4)
 ## Running
 Before distill the student, be sure to get a robust teacher model, you can use the file AT.py to get it.
 and you also have a clean teacher model.

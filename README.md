@@ -16,10 +16,9 @@ python AT.py  &&
 python pmp_resnet_cifar10.py
 ```
 ## Citation
-If you find this repository useful, please consider citing the following paper:
+If you use this code in your work, please cite our paper:
 ```
-...
-
+[PMP-MetaDistill: Enhancing Adversarial Robustness of Small Models via Adaptive Multi-Teacher Distillation with PMP-Guided Meta-Learning]. (2025). [The Visual Computer]. 
 ```
 
 ## Acknowledgement

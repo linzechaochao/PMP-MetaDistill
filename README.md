@@ -5,7 +5,7 @@ PMP-MetaDistill: Enhancing Adversarial Robustness of Small Models via Adaptive M
 
 ![Algorithm](https://github.com/linzechaochao/PMP-MetaDistill/blob/master/figures/Algorithm-of-PMP-MetaDistill.jpg)
 
-## Installation
+# Installation
 To use this repository, please follow the steps below to install the required dependencies.
 This repo was tested in A100
 ## Prerequisites
